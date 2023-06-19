@@ -1,5 +1,8 @@
 # Mariana
-## Guten Tag! 
+## Guten Tag! 👋
+
+<hr>
+
 ## Welcame to my Profile.
 ###### I'm studying web Development full-Time
 ![code](https://github.com/Mariana-x1/Mariana/assets/136748039/4eeab4f3-a208-4abf-9210-3cda9fcf8bbe)
@@ -11,7 +14,8 @@
 - PHP
 - MySql
 - MongoDB
-  
+
+  <hr>
 
 ![th](https://github.com/Mariana-x1/Mariana/assets/136748039/a5c4f3ce-504f-4232-ab70-6116a08cfdc2)
 
