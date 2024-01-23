@@ -13,7 +13,13 @@
 - JS
 - PHP
 - MySql
+- React.js
+- node.js
+- next.js
+- Terminal
 - MongoDB
+- GitHub
+  
 
 ---
 
