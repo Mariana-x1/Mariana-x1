@@ -15,6 +15,7 @@
 - MySql
 - React.js
 - node.js
+- npm
 - next.js
 - Terminal
 - MongoDB
