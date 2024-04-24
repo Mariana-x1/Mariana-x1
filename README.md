@@ -2,7 +2,7 @@
 I'm future web-developer.
 my interesting in coding began 10 jahrs ago (2014) at the uni-Hamburg.
 
-I love ckoding and building websides, solve the coding problems and working agile. 
+I love coding and building websides, solve the coding problems and working agile. 
 
 I'm always looking for new opportunities to expand my knowledge.
 
